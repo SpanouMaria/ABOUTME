@@ -19,6 +19,11 @@ Some of the projects I have worked on within the scope of my studies and persona
 
 - **Project 1**: Peg Solitaire Game (Python).
 - **Project 2**: Guess Word Game (Python).
+- **Project 3**: Robotics (Python).
+- **Project 4**: Stones Game (Python).
+- **Project 5**: AI (Java).
+- **Project 6**: Data Stuctures (Java).
+- **Project 7**: Racing Game (Java).
 
 For more detailed information, please refer to the individual repositories on my GitHub profile.
 
