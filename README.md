@@ -47,7 +47,7 @@ BSc in Computer Science and Engineering intergraded Marser (Expected Graduation:
 
 I am always eager to connect with like-minded individuals and explore new opportunities. Feel free to reach out to me through the following channels:
 
-- **Email**: [spanoumaria3@yahoo.com](mailto:spanoumaria3@yahoo.com)
+- **Email**: [spanoumaria03@gmail.com](mailto:spanoumaria03@gmail.com)
 - **LinkedIn**: [linkedin.com/in/maria-spanou](https://linkedin.com/in/spanou-maria)
 
 ---
