@@ -1,55 +1,94 @@
-# README
-# Maria Spanou - Computer Science and Engineering Student
+# Maria Spanou — Computer Science & Engineering Student
 
 ## About Me
 
-Hello! I am Maria Spanou, a 21-year-old student studying Computer Science and Engineering at the University of Ioannina. Through my university education and personal dedication, I have built a strong foundation in multiple programming languages, both in software and hardware domains.
+Hello! I’m Maria Spanou, a Computer Science and Engineering student at the University of Ioannina with a strong interest in **digital hardware systems**, **testability**, and **high-reliability computing**. I enjoy working in areas where hardware, software, and algorithms intersect — particularly in low-level system design, verification, and intelligent systems.
 
-I am open to various opportunities, including internships and collaborations. My journey in programming began at the age of 18 when I entered university, and since then, I have achieved several milestones, which are showcased in my profile.
+My academic projects reflect both sides of my engineering profile:  
+on one hand, **VHDL-based hardware implementations** (JTAG, BIST, scan chains, LFSRs, MISRs, TAP controllers) and on the other, **software and AI projects** (machine learning, search algorithms, simulation tools, and game-based environments).  
+I am especially motivated by systems that require **precision, dependability, and rigorous testing**, and I aspire to work in research-oriented environments that combine hardware and computation — such as large-scale scientific infrastructures or high-performance computing labs.
 
-## Table of Contents
-1. [Projects](#projects)
-2. [Skills](#skills)
-3. [Education](#education)
-4. [Contact](#contact)
+---
 
 ## Projects
 
-Some of the projects I have worked on within the scope of my studies and personal interest include:
+### 🔹 Digital Hardware & Dependability (VHDL)
+My strongest engineering work focuses on digital testing and verification:
 
-- **Project 1**: Peg Solitaire Game (Python).
-- **Project 2**: Guess Word Game (Python).
-- **Project 3**: Robotics (Python).
-- **Project 4**: Stones Game (Python).
-- **Project 5**: AI (Java).
-- **Project 6**: Data Stuctures (Java).
-- **Project 7**: Racing Game (Java).
+- **Scan-Chain TRCUT Implementation** – Serial scan structure enabling controllability, observability, and full scan-based testing.  
+- **BIST with LFSR & MISR** – Pseudorandom test generation, response compression, and signature verification.  
+- **JTAG TAP Controller** – Fully implemented IEEE 1149.1 boundary-scan architecture with TAP FSM and instruction decoding.  
 
-For more detailed information, please refer to the individual repositories on my GitHub profile.
+Through these projects, I gained experience in:
+- RTL design (VHDL)  
+- DFT (Design for Testability)  
+- scan flip-flops, pattern shifting & capture  
+- pseudorandom pattern generation  
+- signature analysis & fault detection  
+- simulation workflows in ModelSim  
+- RTL / Technology Map verification in Quartus  
+
+---
+
+### 🔹 Artificial Intelligence & Machine Learning
+- **MLP & K-Means (Java)** – Implemented core ML algorithms from scratch.  
+- **AI Search Algorithms** – UCS, A*, Minimax applied to puzzle-solving and strategic decision-making.  
+- **ML Workflows in Python** – Data handling, small experimental pipelines, and algorithmic exploration.
+
+I enjoy understanding how algorithms behave internally — not only using libraries, but reasoning through the underlying computation.
+
+---
+
+### 🔹 Software Engineering & Applications
+- **Treegram Social App (Ruby)** – Web application prototype.  
+- **Unity 3D Maze Game (C#)** – Interactive 3D puzzle game.  
+- **Peg Solitaire, Guess-the-Word, Stones Game (Python)**  
+- **Data Structures & Algorithms (Java)**  
+- **Robotics Simulation with ROS (Python)**  
+
+These projects strengthened my foundations in problem-solving, system design, and software structuring.
+
+---
 
 ## Skills
 
-- **Programming Languages**: 
-  - C, C++, Python, Java
-- **Web Development**: 
-  - HTML
-- **Hardware Programming**: 
-  - VHDL, Assembly
-- **Tools and Technologies**: 
-  - Git, Linux
+### **Hardware & Digital Design**
+- VHDL, Verilog (basic)
+- JTAG, BIST, LFSR/MISR, scan chains  
+- RTL design & simulation  
+- DFT methodologies  
+- ModelSim, Quartus Prime  
+- FSM design, digital logic analysis  
+
+### **Software Engineering**
+- Python, Java, C, C++, Ruby, Go, C#, Haskell, Prolog  
+- Web development fundamentals (Rails, HTML)  
+- Linux systems, Git/GitHub  
+- Data structures, algorithms, and system libraries  
+
+### **Artificial Intelligence**
+- Machine learning fundamentals  
+- Search algorithms (A*, UCS, Minimax)  
+- Classical ML implementations (without frameworks)  
+- Small ML pipelines in Python  
+
+---
 
 ## Education
 
 **University of Ioannina**  
-BSc in Computer Science and Engineering intergraded Marser (Expected Graduation: 2026, five years study)
-
-## Contact
-
-I am always eager to connect with like-minded individuals and explore new opportunities. Feel free to reach out to me through the following channels:
-
-- **Email**: [spanoumaria03@gmail.com](mailto:spanoumaria03@gmail.com)
-- **LinkedIn**: [linkedin.com/in/maria-spanou](https://linkedin.com/in/spanou-maria)
+Integrated Master’s in Computer Science & Engineering  
+(Expected Graduation: 2026)
 
 ---
 
-Thank you for visiting my GitHub profile. I look forward to potential collaborations and exciting projects!
+## Contact
+
+I’m always open to collaborations, research opportunities, and technical discussions.
+
+- **Email:** spanoumaria03@gmail.com  
+- **LinkedIn:** [https://linkedin.com/in/maria-spanou](https://www.linkedin.com/in/spanou-maria)
+
+---
+
+Thank you for visiting my GitHub profile!
