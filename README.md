@@ -12,7 +12,7 @@ I am especially motivated by systems that require **precision, dependability, an
 
 ## Projects
 
-### 🔹 Digital Hardware & Dependability (VHDL)
+### Digital Hardware & Dependability (VHDL)
 My strongest engineering work focuses on digital testing and verification:
 
 - **Scan-Chain TRCUT Implementation** – Serial scan structure enabling controllability, observability, and full scan-based testing.  
@@ -30,7 +30,7 @@ Through these projects, I gained experience in:
 
 ---
 
-### 🔹 Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 - **MLP & K-Means (Java)** – Implemented core ML algorithms from scratch.  
 - **AI Search Algorithms** – UCS, A*, Minimax applied to puzzle-solving and strategic decision-making.  
 - **ML Workflows in Python** – Data handling, small experimental pipelines, and algorithmic exploration.
@@ -39,7 +39,7 @@ I enjoy understanding how algorithms behave internally — not only using librar
 
 ---
 
-### 🔹 Software Engineering & Applications
+### Software Engineering & Applications
 - **Treegram Social App (Ruby)** – Web application prototype.  
 - **Unity 3D Maze Game (C#)** – Interactive 3D puzzle game.  
 - **Peg Solitaire, Guess-the-Word, Stones Game (Python)**  
