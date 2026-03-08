@@ -44,7 +44,8 @@ I enjoy understanding how algorithms behave internally — not only using librar
 ---
 
 ### Software Engineering & Applications
-- **Treegram Social App (Ruby)** – Web application prototype.  
+- **Traineeship Management Application (Java)** – Lifecycle management and allocation system.
+- **Treegram Social App (Ruby)** – Interactive photo-sharing Rails platform.
 - **Unity 3D Maze Game (C#)** – Interactive 3D puzzle game.  
 - **Peg Solitaire, Guess-the-Word, Stones Game (Python)**  
 - **Data Structures & Algorithms (Java)**  
