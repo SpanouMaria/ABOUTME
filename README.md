@@ -1,7 +1,6 @@
 # Maria Spanou - CSE Undergraduate | Digital Design • Hardware Systems • AI & Reliable Computing
 
-## About Me
-
+# About Me
 Hello! I’m Maria Spanou, a Computer Science and Engineering student at the University of Ioannina with a strong interest in **digital hardware systems**, **testability**, and **high-reliability computing**. I enjoy working in areas where hardware, software, and algorithms intersect — particularly in low-level system design, verification, and intelligent systems.
 
 My academic projects reflect both sides of my engineering profile:  
