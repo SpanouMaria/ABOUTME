@@ -1,12 +1,16 @@
-# Maria Spanou - CSE Undergraduate | Digital Design • Hardware Systems • AI & Reliable Computing
+# Maria Spanou - CSE Undergraduate @ UoI (GR) | Digital Design • Hardware Systems • AI & Reliable Computing
 
-# About Me
-Hello! I’m Maria Spanou, a Computer Science and Engineering student at the University of Ioannina with a strong interest in **digital hardware systems**, **testability**, and **high-reliability computing**. I enjoy working in areas where hardware, software, and algorithms intersect — particularly in low-level system design, verification, and intelligent systems.
+## About Me
 
-My academic projects reflect both sides of my engineering profile:  
-on one hand, **VHDL-based hardware implementations** (JTAG, BIST, scan chains, LFSRs, MISRs, TAP controllers) and on the other, **software and AI projects** (machine learning, search algorithms, simulation tools, and game-based environments).  
+Hello! I’m Maria Spanou, a Computer Science and Engineering student at the University of Ioannina with a strong interest
+in **digital hardware systems**, **testability**, and **high-reliability computing**. I enjoy working in areas where hardware, software, and algorithms
+intersect — particularly in low-level system design, verification, and intelligent systems.
 
-I am especially motivated by systems that require **precision, dependability, and rigorous testing**, and I aspire to work in research-oriented environments that combine hardware and computation — such as large-scale scientific infrastructures or high-performance computing labs.
+While my core expertise lies in VHDL-based hardware implementations (including scan chains, LFSRs, and MISRs), 
+I maintain a strong background in software engineering and AI, developing machine learning pipelines and robust simulation environments.
+
+I am especially motivated by systems that require **precision, dependability, and rigorous testing**, and I aspire to work in research-oriented
+environments that combine hardware and computation — such as large-scale scientific infrastructures or high-performance computing labs.
 
 ---
 
@@ -67,7 +71,7 @@ These projects strengthened my foundations in problem-solving, system design, an
 - Small ML pipelines in Python  
 
 ### **Software Engineering**
-- Python, Java, C, C++, Ruby, Go, C#, Haskell, Prolog  
+- Python, Java, C, C++, Haskell, Prolog, Ruby, Go, C#   
 - Web development fundamentals (Rails, HTML)  
 - Linux systems, Git/GitHub  
 - Data structures, algorithms, and system libraries  
@@ -78,7 +82,7 @@ These projects strengthened my foundations in problem-solving, system design, an
 
 **University of Ioannina**  
 Integrated Master’s in Computer Science & Engineering  
-(Expected Graduation: 2026)
+(Expected Graduation: SEPT 2026)
 
 ---
 
