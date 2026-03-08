@@ -60,17 +60,17 @@ These projects strengthened my foundations in problem-solving, system design, an
 - ModelSim, Quartus Prime  
 - FSM design, digital logic analysis  
 
-### **Software Engineering**
-- Python, Java, C, C++, Ruby, Go, C#, Haskell, Prolog  
-- Web development fundamentals (Rails, HTML)  
-- Linux systems, Git/GitHub  
-- Data structures, algorithms, and system libraries  
-
 ### **Artificial Intelligence**
 - Machine learning fundamentals  
 - Search algorithms (A*, UCS, Minimax)  
 - Classical ML implementations (without frameworks)  
 - Small ML pipelines in Python  
+
+### **Software Engineering**
+- Python, Java, C, C++, Ruby, Go, C#, Haskell, Prolog  
+- Web development fundamentals (Rails, HTML)  
+- Linux systems, Git/GitHub  
+- Data structures, algorithms, and system libraries  
 
 ---
 
