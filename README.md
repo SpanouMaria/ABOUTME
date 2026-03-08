@@ -7,6 +7,7 @@ Hello! I’m Maria Spanou, a Computer Science and Engineering student at the Uni
 
 My academic projects reflect both sides of my engineering profile:  
 on one hand, **VHDL-based hardware implementations** (JTAG, BIST, scan chains, LFSRs, MISRs, TAP controllers) and on the other, **software and AI projects** (machine learning, search algorithms, simulation tools, and game-based environments).  
+
 I am especially motivated by systems that require **precision, dependability, and rigorous testing**, and I aspire to work in research-oriented environments that combine hardware and computation — such as large-scale scientific infrastructures or high-performance computing labs.
 
 ---
