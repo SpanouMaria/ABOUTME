@@ -1,36 +1,84 @@
-Maria Spanou
-Digital Design & Verification Engineer | CSE Integrated Master's Undergraduate Student
-[![VHDL](https://img.shields.io/badge/HDL-VHDL%20%2F%20Verilog-orange)](#)
-[![Tools](https://img.shields.io/badge/Tools-Quartus%20%7C%20ModelSim%20%7C%20Vivado-blue)](#)
-[![Focus](https://img.shields.io/badge/Focus-DFT%20%7C%20JTAG%20%7C%20BIST-red)](#)
+# Maria Spanou — Computer Science & Engineering Student
+
+## About Me
+
+Hello! I’m Maria Spanou, a Computer Science and Engineering student at the University of Ioannina with a strong interest in **digital hardware systems**, **testability**, and **high-reliability computing**. I enjoy working in areas where hardware, software, and algorithms intersect — particularly in low-level system design, verification, and intelligent systems.
+
+My academic projects reflect both sides of my engineering profile:  
+on one hand, **VHDL-based hardware implementations** (JTAG, BIST, scan chains, LFSRs, MISRs, TAP controllers) and on the other, **software and AI projects** (machine learning, search algorithms, simulation tools, and game-based environments).  
+I am especially motivated by systems that require **precision, dependability, and rigorous testing**, and I aspire to work in research-oriented environments that combine hardware and computation — such as large-scale scientific infrastructures or high-performance computing labs.
 
 ---
 
-🚀 Professional Profile
-I am a Computer Science & Engineering student at the University of Ioannina, specializing in Digital Hardware Systems, Testability (DFT), and High-Reliability Computing. My expertise lies at the intersection of hardware and algorithms, focusing on developing dependable systems through rigorous verification and RTL design.
+## Projects
+
+### Digital Hardware & Dependability (VHDL)
+My strongest engineering work focuses on digital testing and verification:
+
+- **Scan-Chain TRCUT Implementation** – Serial scan structure enabling controllability, observability, and full scan-based testing.  
+- **BIST with LFSR & MISR** – Pseudorandom test generation, response compression, and signature verification.  
+- **JTAG TAP Controller** – Fully implemented IEEE 1149.1 boundary-scan architecture with TAP FSM and instruction decoding.  
+
+Through these projects, I gained experience in:
+- RTL design (VHDL)  
+- DFT (Design for Testability)  
+- scan flip-flops, pattern shifting & capture  
+- pseudorandom pattern generation  
+- signature analysis & fault detection  
+- simulation workflows in ModelSim  
+- RTL / Technology Map verification in Quartus  
 
 ---
 
-🛠 Tech Stack
-Hardware Design: VHDL, Verilog (Basic), RTL Design, FSM Design.
-Testing & Verification: JTAG (IEEE 1149.1), BIST, Scan Chains, LFSR/MISR, DFT Methodologies.
-EDA Tools: Intel Quartus Prime, ModelSim, RTL/Technology Map Analysis.
-Software & AI: C, C++, Python, Linux Systems, Search Algorithms (A*), Classical ML.
+### Artificial Intelligence & Machine Learning
+- **MLP & K-Means (Java)** – Implemented core ML algorithms from scratch.  
+- **AI Search Algorithms** – UCS, A*, Minimax applied to puzzle-solving and strategic decision-making.  
+- **ML Workflows in Python** – Data handling, small experimental pipelines, and algorithmic exploration.
+
+I enjoy understanding how algorithms behave internally — not only using libraries, but reasoning through the underlying computation.
 
 ---
 
-📂 Featured Hardware Projects
-🏗️ Digital Testing & Dependability (VHDL)
-JTAG TAP Controller: Full implementation of the IEEE 1149.1 boundary-scan architecture, including FSM logic and instruction decoding.
-Scan-Chain TRCUT: Serial scan structure design to maximize controllability and observability for full-scan testing.
-BIST Engine with LFSR & MISR: Developed a Built-In Self-Test module featuring pseudorandom pattern generation and signature analysis for fault detection.
+### Software Engineering & Applications
+- **Treegram Social App (Ruby)** – Web application prototype.  
+- **Unity 3D Maze Game (C#)** – Interactive 3D puzzle game.  
+- **Peg Solitaire, Guess-the-Word, Stones Game (Python)**  
+- **Data Structures & Algorithms (Java)**  
+- **Robotics Simulation with ROS (Python)**  
+
+These projects strengthened my foundations in problem-solving, system design, and software structuring.
 
 ---
 
-🎓 Education
-Integrated Master's in Computer Science & Engineering
-University of Ioannina (Expected 2026)
-Focus: Digital Systems, High-Performance Computing, Machine Learning.
+## Skills
+
+### **Hardware & Digital Design**
+- VHDL, Verilog (basic)
+- JTAG, BIST, LFSR/MISR, scan chains  
+- RTL design & simulation  
+- DFT methodologies  
+- ModelSim, Quartus Prime  
+- FSM design, digital logic analysis  
+
+### **Software Engineering**
+- Python, Java, C, C++, Ruby, Go, C#, Haskell, Prolog  
+- Web development fundamentals (Rails, HTML)  
+- Linux systems, Git/GitHub  
+- Data structures, algorithms, and system libraries  
+
+### **Artificial Intelligence**
+- Machine learning fundamentals  
+- Search algorithms (A*, UCS, Minimax)  
+- Classical ML implementations (without frameworks)  
+- Small ML pipelines in Python  
+
+---
+
+## Education
+
+**University of Ioannina**  
+Integrated Master’s in Computer Science & Engineering  
+(Expected Graduation: 2026)
 
 ---
 
