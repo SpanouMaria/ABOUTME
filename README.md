@@ -1,5 +1,4 @@
-# Maria Spanou
-# CSE Undergraduate | Digital Design • Hardware Systems • AI & Reliable Computing
+# Maria Spanou - CSE Undergraduate | Digital Design • Hardware Systems • AI & Reliable Computing
 
 ## About Me
 
